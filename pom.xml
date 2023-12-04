@@ -35,6 +35,7 @@
 	            <uri>https://anypoint.mulesoft.com</uri>
 	            <provider>MC</provider>
 	            <environment>sandbox</environment>
+		    <target>Cloudhub-EU-West-2</target>
 	            <muleVersion>4.4.0</muleVersion>
 	            <applicationName>ch2</applicationName>
 	            <replicas>1</replicas>
